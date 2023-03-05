@@ -1,0 +1,9 @@
+{
+    
+    "users": [
+      ["automation1@email.com", "Pass_1", "Person1"],
+      ["automation2@email.com", "Pass_2", "Person2"],
+      ["automation3@email.com", "Pass_3", "Person3"]
+    ]
+
+  }

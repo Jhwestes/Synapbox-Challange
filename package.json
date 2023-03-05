@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "test": "testcafe chrome suites/challange.js"
+  },
+
+  "dependencies": {
+    "testcafe": "^2.3.1"
+  }
+}
